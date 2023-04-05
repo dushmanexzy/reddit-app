@@ -10,7 +10,7 @@ export function Card() {
     <li className={styles.card}>
       <TextContent />
       <Preview />
-      {/*<Menu />*/}
+      <Menu />
       <Controls />
     </li>
   );
